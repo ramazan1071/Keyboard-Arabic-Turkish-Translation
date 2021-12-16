@@ -1,0 +1,47 @@
+        .bt,
+        .bt:hover,
+        .bt:visited {
+            text-decoration: none;
+            cursor: pointer;
+            padding: 0.3em 0.75em;
+            min-width: 1.4em;
+            font-size: 1.7em;
+            color: #CC0033;
+            background-color: rgb(201, 191, 191);
+            font-family: Times New Roman;
+            border: none;
+            
+        }
+
+        .btb,
+        .btb:hover,
+        .btb:visited {
+            text-decoration: none;
+            cursor: pointer;
+            padding: 0.1em 0em;
+            min-width: 1.2em;
+            font-size: 1.7em;
+            color: #CC0033;
+            font-family: Times New Roman;
+        }
+
+        .cadr {
+            width: 80%;
+            font-size: 1.8em;
+            color: #0000FF;
+            font-family: Simplified Arabic, Times New Roman;
+            direction: rtl;
+            padding: 0.3em;
+        }
+
+        .tabl tr {
+            vertical-align: top;
+        }
+
+        .tabl td {
+            padding-left: 1em;
+            white-space: nowrap;
+        }
+       textarea{
+       word-wrap: break-word;
+       }
